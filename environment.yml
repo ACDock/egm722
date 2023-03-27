@@ -3,9 +3,19 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+<<<<<<< HEAD
   - python=3.9
   - geopandas
   - cartopy
   - notebook
   - rasterio
   - pyepsg
+=======
+  - python
+  - geopandas
+  - cartopy>=0.21
+  - notebook
+  - rasterio
+  - pyepsg
+  - folium
+>>>>>>> week3
