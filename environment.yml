@@ -6,6 +6,7 @@ dependencies:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 782da1dbd6b37512d7e1fefca8abbe8a3c315aaf
@@ -22,6 +23,9 @@ dependencies:
   - pyepsg
 =======
   - python
+=======
+  - python=3.9
+>>>>>>> c9adf11734ae0700f7f508b80f6f3cedbece8c6f
   - geopandas
   - cartopy>=0.21
   - notebook
