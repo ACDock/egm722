@@ -8,6 +8,7 @@ dependencies:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 782da1dbd6b37512d7e1fefca8abbe8a3c315aaf
@@ -30,6 +31,9 @@ dependencies:
 =======
   - python
 >>>>>>> a819f88459da49ba4239a5deb535cffb1448e973
+=======
+  - python=3.9
+>>>>>>> 1853bcd04f48855eca398ad80801fd78e5e926d3
   - geopandas
   - cartopy>=0.21
   - notebook
