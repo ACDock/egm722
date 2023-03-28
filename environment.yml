@@ -3,10 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-
   - python=3.9
   - geopandas
-  - cartopy
+  - cartopy>=0.21
   - notebook
   - rasterio
   - pyepsg
+  -folium
