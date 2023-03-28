@@ -4,11 +4,16 @@ channels:
   - defaults
 dependencies:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 782da1dbd6b37512d7e1fefca8abbe8a3c315aaf
   - python=3.9
   - geopandas
   - cartopy
   - notebook
   - rasterio
+<<<<<<< HEAD
   - pyepsg
 =======
   - python
@@ -19,3 +24,6 @@ dependencies:
   - pyepsg
   - folium
 >>>>>>> week3
+=======
+  - pyepsg
+>>>>>>> 782da1dbd6b37512d7e1fefca8abbe8a3c315aaf
